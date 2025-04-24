@@ -1,4 +1,4 @@
-# Worker + D1 Database
+# Workers + D1 Database
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/frosty-art-1b40)
 
